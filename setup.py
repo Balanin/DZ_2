@@ -9,6 +9,6 @@ setup(name='clean_folder',
       author='Volodymyr Balan',
       author_email='vova.balan1988@gmail.com',
       #license='MIT',
-      entry_points={'console_scripts': ['clean-folder = clean_folder.clean:main']}
+      entry_points={'console_scripts': ['clean-folder = clean_folder.clean:path_function']}
 
       )
